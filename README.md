@@ -31,13 +31,13 @@ As this location is under your user directory, the content is persisted across V
 =======
 # Images
 
-## view in html
+#### view in html
 ![HTML](assets/imgs/theme-coffee-01.png)
-## view in json
+#### view in json
 ![HTML](assets/imgs/theme-coffee-02.png)
-## view in javascript
+#### view in javascript
 ![HTML](assets/imgs/theme-coffee-03.png)
-## Preview
+#### Preview
 ![HTML](assets/imgs/preview.png)
 
 
