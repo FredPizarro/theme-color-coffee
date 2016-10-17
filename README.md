@@ -31,6 +31,10 @@ As this location is under your user directory, the content is persisted across V
 ### Images
 
 ![HTML](assets/imgs/theme-coffee-01.png)
+##
+![HTML](assets/imgs/theme-coffee-02.png)
+##
+![HTML](assets/imgs/theme-coffee-03.png)
 
 ### Contact
 More contributions and suggestions in the theme to:
