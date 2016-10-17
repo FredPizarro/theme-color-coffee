@@ -12,7 +12,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 Clone a copy of the repo:
 
 ```
-git clone https://github.com/Microsoft/vscode-docs.git
+git clone https://github.com/FredPizarro/theme-color-coffee.git
 ```
 
 in you location `.vscode/extensions` under your user directory.
@@ -28,11 +28,16 @@ As this location is under your user directory, the content is persisted across V
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+### Images
+
+![HTML](assets/imgs/theme-coffee-01.png)
+
 ### Contact
-More contributions and suggestions to:
+More contributions and suggestions in the theme to:
 
 * E-mail:  Freddy_ps_3@hotmail.com
 * Twitter: https://twitter.com/Fred_Pizarro
+
 
 **Enjoy!**
 
