@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # theme-color-coffee
 =======
 # README
