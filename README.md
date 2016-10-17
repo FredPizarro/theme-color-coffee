@@ -28,15 +28,21 @@ As this location is under your user directory, the content is persisted across V
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-### Images
+=======
+# Images
 
+## view in html
 ![HTML](assets/imgs/theme-coffee-01.png)
-##
+## view in json
 ![HTML](assets/imgs/theme-coffee-02.png)
-##
+## view in javascript
 ![HTML](assets/imgs/theme-coffee-03.png)
+## Preview
+![HTML](assets/imgs/preview.png)
 
-### Contact
+
+=======
+# Contact
 More contributions and suggestions in the theme to:
 
 * E-mail:  Freddy_ps_3@hotmail.com
