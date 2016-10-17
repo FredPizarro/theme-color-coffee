@@ -1,5 +1,4 @@
 
-# theme-color-coffee
 =======
 # README
 ## This is the README for your extension "theme-color-coffee"
@@ -13,5 +12,8 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+### Contactar
+* [E-mail](Freddy_ps_3@hotmail.com)
+
 **Enjoy!**
->>>>>>> Editando/agregando readme.md
+
