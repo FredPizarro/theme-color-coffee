@@ -1,0 +1,22 @@
+{
+    "name": "theme-color-coffee",
+    "displayName": "theme color coffee",
+    "description": "Inspirate in the product coffee !!...",
+    "version": "0.0.1",
+    "publisher": "theme-coffee",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "coffee color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-color-coffee.tmTheme"
+            }
+        ]
+    }
+}
