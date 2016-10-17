@@ -13,7 +13,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 ### Contact
-Su
+More contributions and suggestions to:
 
 * E-mail:  Freddy_ps_3@hotmail.com
 * Twitter: https://twitter.com/Fred_Pizarro
