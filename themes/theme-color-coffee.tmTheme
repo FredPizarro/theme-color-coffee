@@ -23,7 +23,7 @@
 				 
 				<!-- color of the selection regions --> 
 				<key>selection</key>
-				 <string>#47484B</string>
+				 <string>#ffeb3b</string>
 				<key>selectionBorder</key>
 				<string>#ffff00</string>
 				
